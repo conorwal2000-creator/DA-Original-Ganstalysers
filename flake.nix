@@ -42,7 +42,7 @@
         targetPkgs = pkgs: (with pkgs; [
           condaInstaller
           # Standard libraries often needed by Python/Conda packages:
-          xorg.libSM xorg.libICE xorg.libXrender libselinux libglvnd
+          libsm libice libxrender libselinux libglvnd
           gcc git zlib glib
         ]);
         
