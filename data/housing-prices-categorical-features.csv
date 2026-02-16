@@ -1,0 +1,6 @@
+Feature,count,unique,top,freq,%missing,cardinality
+County,54000,26,Dublin,16577,0.0,26
+Not Full Market Price,54000,2,No,51150,0.0,2
+VAT Exclusive,54000,2,No,44530,0.0,2
+Description of Property,54000,3,Second-Hand Dwelling house /Apartment,44366,0.0,3
+Property Size Description,2799,4,greater than or equal to 38 sq metres and less than 125 sq metres,2088,94.81666666666668,4
