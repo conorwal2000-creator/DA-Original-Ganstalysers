@@ -1,6 +1,6 @@
-Feature,count,unique,top,freq,%missing,cardinality
-County,54000,26,Dublin,16577,0.0,26
-Not Full Market Price,54000,2,No,51150,0.0,2
-VAT Exclusive,54000,2,No,44530,0.0,2
-Description of Property,54000,3,Second-Hand Dwelling house /Apartment,44366,0.0,3
-Property Size Description,2799,4,greater than or equal to 38 sq metres and less than 125 sq metres,2088,94.81666666666668,4
+Feature,Count,Missing %,Cardinality,Mode,Mode Freq.,Mode %,2nd Mode,2nd Mode Freq.,2nd Mode %
+County,54000,0.0,26,Dublin,16577,30.69814814814815,Cork,6040,11.185185185185185
+Not Full Market Price,54000,0.0,2,No,51150,94.72222222222223,Yes,2850,5.277777777777778
+VAT Exclusive,54000,0.0,2,No,44530,82.46296296296296,Yes,9470,17.537037037037038
+Description of Property,54000,0.0,3,Second-Hand Dwelling house /Apartment,44366,82.15925925925926,New Dwelling house /Apartment,9631,17.835185185185185
+Property Size Description,54000,94.81666666666666,4,greater than or equal to 38 sq metres and less than 125 sq metres,2088,3.8666666666666667,greater than or equal to 125 sq metres,493,0.912962962962963
