@@ -1,2 +1,5 @@
 notebooks/.ipynb_checkpoints/analysis-checkpoint.ipynb
 .vscode/settings.json
+.DS_Store
+flake.lock
+flake.nix
